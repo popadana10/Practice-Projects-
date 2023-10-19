@@ -109,4 +109,36 @@ html {
   .project-item h3 {
     margin-top: 0;
   }
-  
+  * Work Experience
+------------------------------------*/
+.work-experience {
+  background: #A1C6D7;
+}
+
+/* Education
+------------------------------------*/
+.education {
+  background-image: url(../images/joanna-kosinska-unsplash.jpg);
+  background-size: cover;
+  background-position: top right;
+  padding-bottom: 100px;
+}
+.education p {
+  width: 60%;
+}
+
+
+/* Contact Info
+------------------------------------*/
+footer {
+  background: #343434;
+  color: #F7FFF7;
+}
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+}
+.contact-list a {
+  padding: 15px;
+  display: inline-block;
+}
