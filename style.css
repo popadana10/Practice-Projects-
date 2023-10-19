@@ -109,10 +109,11 @@ html {
   .project-item h3 {
     margin-top: 0;
   }
-  * Work Experience
+
+  /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #3d8baf;
+  background: #9fc5d6;
 }
 
 /* Education
